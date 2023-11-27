@@ -1,0 +1,3 @@
+# Ignorar archivos en la carpeta mi_carpeta 
+dataBase.php
+/DATABASE/

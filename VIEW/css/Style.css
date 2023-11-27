@@ -1,0 +1,49 @@
+*{
+    font-family: sans-serif;
+}
+h1{
+    font-weight: bold;
+}
+
+body{
+    background-color: #F6F7EA;
+    font-family: Open sans;
+    
+}
+.btn{
+    background-color: #B1D2BF;
+    color: black;
+}
+.btn:hover{
+    background-color: #008080;
+    color: #F6F7EA;
+}
+.form-control{
+    background-color: rgba(246, 248, 226, 0.5);
+}
+.input:focus{
+    background-color: rgba(246, 248, 226, 0.5);;
+}
+.textError{
+    display: none;
+}
+.bannerColor{
+    color: black;
+}
+.invalid{
+    background-color: tomato;
+    color: black;
+}
+.invalid:hover{
+    background-color: tomato;
+    color: #F6F7EA;
+}
+.valid{
+    background-color: #B1D2BF;
+    color: black;
+}
+.valid:hover{
+    background-color: #008080;
+    color: #F6F7EA;
+}
+
